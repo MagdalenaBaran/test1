@@ -1,2 +1,3 @@
 # test1
-Projekt testowy
+Projekt testowy, a teraz co sobie dodam. :)
+
